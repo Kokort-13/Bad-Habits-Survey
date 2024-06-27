@@ -1,19 +1,19 @@
 body {
-    font-family: 'Press Start 2P', Cascadia Code; 
+    font-family: 'Press Start 2P', sans-serif; /* Pixelated font */
     color: black;
     font-weight: bold;
-        background-color: rgba(140, 190, 214, 1);
-        margin: 0;
-       padding: 0;
+    background-color: rgba(140, 190, 214, 1); /* Dark sky blue */
+    margin: 0;
+    padding: 0;
 }
 
 #title, #description {
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
     padding: 10px;
     border-radius: 5px;
     margin-top: 20px;
-    font-size: 24px; 
+    font-size: 24px; /* Adjust font size for a more pixelated look */
 }
 
 form {
@@ -23,7 +23,7 @@ form {
     margin: 0 auto;
     padding: 20px;
     padding-bottom: 2em;
-    background-image: url('https://i.pinimg.com/564x/2e/ff/7e/2eff7e5b6f5c95f0334f6119bf305155.jpg');
+    background-image: url('https://i.pinimg.com/236x/ec/f9/30/ecf930cb34d0a8e25e4bf0c0f654f52f.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
