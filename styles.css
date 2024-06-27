@@ -1,0 +1,34 @@
+styles.css
+body {
+    font-family: 'Press Start 2P', sans-serif; /* Example of a pixel font */
+    color: black;
+    font-weight: bold;
+        background-color: #8CBED6; /* Dark sky blue */
+
+    margin: 0;
+    padding: 0;
+}
+
+#title, #description {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 24px; /* Adjust font size for a more pixelated look */
+}
+
+form {
+    width: 50vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-bottom: 2em;
+    background-image: url('https://i.pinimg.com/564x/2e/ff/7e/2eff7e5b6f5c95f0334f6119bf305155.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
