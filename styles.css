@@ -1,9 +1,8 @@
-styles.css
 body {
-    font-family: 'Press Start 2P', sans-serif; /* Example of a pixel font */
+    font-family: 'Press Start 2P', sans-serif; 
     color: black;
     font-weight: bold;
-        background-color: #8CBED6; /* Dark sky blue */
+        background-color: #8CBED6; 
 
     margin: 0;
     padding: 0;
@@ -15,7 +14,7 @@ body {
     padding: 10px;
     border-radius: 5px;
     margin-top: 20px;
-    font-size: 24px; /* Adjust font size for a more pixelated look */
+    font-size: 24px; 
 }
 
 form {
