@@ -1,11 +1,10 @@
 body {
-    font-family: 'Press Start 2P', sans-serif; 
+    font-family: 'Press Start 2P', Cascadia Code; 
     color: black;
     font-weight: bold;
-        background-color: #8CBED6; 
-
-    margin: 0;
-    padding: 0;
+        background-color: rgba(140, 190, 214, 1);
+        margin: 0;
+       padding: 0;
 }
 
 #title, #description {
